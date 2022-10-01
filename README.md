@@ -1,1 +1,1 @@
-![kerazi](img/kerazi.jpg?raw=true)
+#Github page made for kerazi
